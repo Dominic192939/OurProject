@@ -26,7 +26,22 @@ As already mentioned for vehicles, you can search for single person groups, smal
 
 ## Organizational and technical framework conditions
 
+## Opportunities and risks
+
+Its a good opportunity to connect other people and bring new faces in the life of the users, 
+but what if this person didn't like you or you don't really talk about the same topic.
+Another risks about this project is that people after using this app a long time. I cant be
+that you add this person on a other social media app and from human beings there a like using
+the same App 
+
+
 ## Planning
+We want to use a app.
+
+1. Design a App.
+2. We need a frontend and backend.
+
+Frontend: 
 
 
 ### Project team
