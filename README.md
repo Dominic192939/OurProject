@@ -1,11 +1,11 @@
 # Project
 ## This is our first real Project!!!
-The project that the three of us have thought about is specifically intended for motorcycle riders.
+The project that the three of us have thought about is especially for the motorcyclists, 
+for people who like to ride bikes, for runners and also for car drivers.
 The name of this Project: 
 
 ## Initial situation
-With this program you need some information to be able to calculate your age. 
-The information required is the year of birth, the month of birth and the birthday.
+
 
 ## Project goal
 The goal in the end is to create a functional program that can calculate your own age. 
