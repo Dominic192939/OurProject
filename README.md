@@ -30,12 +30,14 @@ As already mentioned for vehicles, you can search for single person groups, smal
 
 Its a good opportunity to connect people, but what if this person didn't like you or maybe you don't have the same interresting.
 
+
 ## Planning
-We want to use a app.
+We want to use a app application. The Frontend should be design with HTML and CSS. For the backend we want to use C#,
+because we are learing right now C# in the Programming lesson. 
 
 We need: 
-1. Frontend
-2. Backend
+1. Frontend (HTML, CSS)
+2. Backend (C#)
 
 ### Project team
 Our development team:
