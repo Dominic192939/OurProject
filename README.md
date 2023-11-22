@@ -14,10 +14,10 @@
 
 ## Organizational and technical framework conditions
 
-## Opportunities and risks
+# Opportunities and risks
 
 
-# Risk
+## Risk
 
 
 ## Security risks:
@@ -46,7 +46,7 @@ Errors and bugs: Undetected errors and bugs can affect the functionality of the 
 Lack of quality control: Inadequate quality control can result in poor overall quality of the app.
 
 
-# Opportunities
+## Opportunities
 
 
 ## Take advantage of a gap in the market:
