@@ -14,7 +14,7 @@
 
 ## Organizational and technical framework conditions
 
-# Opportunities and risks
+#Opportunities and risks
 
 
 ## Risk
