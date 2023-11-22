@@ -17,20 +17,20 @@
 
 ## Organizational and technical framework conditions
 
-# Opportunities and risks
+## Opportunities and risks
 
-## [Risks](Risks.md)
+### [Risks](Risks.md)
 
-## [Opportunities](Opportunities.md)
+### [Opportunities](Opportunities.md)
 
 
 ## Planning
 [Planning](Planning.md)
 
-### Project team
+## Project team
 [ProjectTeam](ProjectTeam.md)
 
-### Milestones 
+## Milestones 
 [Milestones](Milestones.md)
 
 ### General Description
