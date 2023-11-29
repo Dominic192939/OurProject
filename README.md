@@ -1,4 +1,4 @@
-# Project
+# Project RideSocial
 [Project](Project.md)
 
 ## Purpose
