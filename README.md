@@ -5,10 +5,10 @@
 [Purpose](Purpose.md)
 
 ## Initial situation
-[InitialSituation](InitialSituation.md)
+[Initial_Situation](InitialSituation.md)
 
 ## Project goal
-[ProjectGoal](ProjectGoal.md)
+[Project_Goal](ProjectGoal.md)
 
 ### [Vehicles](Vehicles.md)
 
@@ -16,6 +16,9 @@
 
 
 ## Organizational and technical framework conditions
+
+###  [Organisation](Organisation.md)
+###  [Technical_Framework_Conditions](Technical_FW_Conditions.md)
 
 ## Opportunities and risks
 
@@ -28,7 +31,7 @@
 [Planning](Planning.md)
 
 ## Project team
-[ProjectTeam](ProjectTeam.md)
+[Project_Team](ProjectTeam.md)
 
 ## Milestones 
 [Milestones](Milestones.md)
