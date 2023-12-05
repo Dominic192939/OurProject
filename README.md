@@ -14,7 +14,7 @@
 
 ## Organizational and technical framework conditions
 ###  [Organisation](Organisation.md)
-###  [Technical_Framework_Conditions](Technical_FW_Conditions.md)
+###  [Technical Framework Conditions](Technical_FW_Conditions.md)
 
 ## Opportunities and risks
 ### [Risks](Risks.md)
