@@ -1,5 +1,7 @@
 # Project RideSocial
-[Project](Project.md)
+
+## General Description
+[Project Description](Project.md)
 
 ## Purpose
 [Purpose](Purpose.md)
@@ -35,5 +37,3 @@
 
 ## Milestones 
 [Milestones](Milestones.md)
-
-## General Description
