@@ -25,3 +25,6 @@ We even could transform our app to a social media platform like instagram, users
 
 
 ## Market and economic effect of Project
+
+We will provide our annual sales via advertisements, premium upgrade versions and extra features.
+As already mentioned, we combine a lot of features of other apps in only one app. This will have a serious impact on the market effect of the project.
