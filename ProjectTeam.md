@@ -36,6 +36,8 @@ Create and update documentation for common problems and their solutions to promo
 #### Quality control and improvement:
 Monitoring the quality of technological products and services, identifying weak points and providing feedback for improvement.
 
+
+
 ### Division of the project
 
 * Kappelmayer Dominic: Planning Updates for perform.
@@ -64,6 +66,8 @@ Created documentation of the updates to provide a clear overview of the changes 
 
 #### Feedback collection:
 Implemented post-upgrade feedback collection mechanisms to ensure user satisfaction and performance goals were met.
+
+
 
 ### Division of the project
 
