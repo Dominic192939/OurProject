@@ -16,24 +16,22 @@ Different routes are displayed, such as people who want to drive on relaxed road
 
 #### 1.Milestone
 
-The first goal is to find a project idea.
-Second goal is to think about what you need. Also think about how much time the project will take.
-Divide the team into who has what task on the project.
+* 1.1) The first goal is to find a project idea.
+* 1.2) Second goal is to think about what you need. Also think about how much time the project will take.
+* 1.3) Divide the team into who has what task on the project.
 
 #### 2.Milestone
-Document everything on Github and, depending on your choice, in VSCODE.
-Show the professor how far we are and wait for feedback.
+* 2.1) Document everything on Github and, depending on your choice, in VSCODE.
+* 2.2) Show the professor how far we are and wait for feedback.
 
 #### 3.Milestone
-At the third milestone, the first small goal is to program a prototype.
-First, you should choose the perfect programming language.
-
-Then the person who was hired as technical support will be his
-To complete the task by creating a prototype.
-
-The prototype should have certain functions such as a menu with lots of options to choose from.
-Route calculation depending on the type of transport.
+* 3.1) At the third milestone, the first small goal is to program a prototype.
+* 3.2) First, you should choose the perfect programming language.
+* 3.3) Then the person who was hired as technical support will be his
+* 3.4) To complete the task by creating a prototype.
+* 3.5) The prototype should have certain functions such as a menu with lots of options to choose from.
+* 3.6) Route calculation depending on the type of transport.
 
 #### 4.Milestone
-With the 4 Milestone the function of selecting cars, motorcycles etc. of some dimensions works well.
-If that works then route calculation shouldn't be an obstacle.
+* 4.1) With the 4th milestone, the function of selecting cars, motorcycles, etc. should work well.
+* 4.2) If that works then route calculation shouldn't be an obstacle.
