@@ -8,34 +8,55 @@
 ## Devran Saglik Tasks:
 
 #### Design and UX/UI development:
-Creation of user interfaces (UI) and careful design of user experiences (UX) for intuitive and efficient use of the application.
+
+* Create a interface(UI) for users.
+* The design of the application should be designed carefully and easy to use for users (UX).
+
 
 #### Support with technology use:
-Providing support and guidance for the effective use of technology, such as software, hardware or our website.
+* Providing support and guidance for the effective use of technology, such as software, hardware or our website.
+
 
 #### System installation and configuration:
-Support in the installation, configuration and implementation of technological solutions, be it software or hardware.
+
+* Its important to support the application in the installation and configuration.
+* Implementation of technological solutions, whether software or hardware.
 
 #### Security management:
-Advise and implement security measures to protect systems from viruses, malware, phishing and other security threats.
+
+* Makes recommendations and implements security measures to protect systems from viruses, malware, phishing and other security threats.
 
 #### Network support:
-Help with network issues, including connectivity, configuring routers and firewalls, and troubleshooting connection issues.
+
+* Assist with network issues including connectivity 
+* Configuring routers and firewalls, and troubleshooting connectivity issues.
 
 #### Remote Support:
-Providing remote support to quickly diagnose and resolve issues without physically being on site.
+
+* Providing remote support to quickly diagnose
+* Solve the issues from the office without being there.
 
 #### Mobile Device Management:
-Assist in the configuration and management of mobile devices, including smartphones and tablets, and assist with mobile application issues.
+
+* Support in configuring and managing mobile devices, including smartphones and tablets 
+* Support to prevent problems with mobile applications.
 
 #### Quality control and improvement:
-Monitoring the quality of technological products and services, identifying weak points and providing feedback for improvement.
+
+* Monitoring the quality of technological products and services 
+* Identifying weak points and making suggestions for improvement.
+
 
 #### Updates and Maintenance:
-Implement updates and periodic maintenance of the application to fix bugs, apply security patches and improve functionality.
+
+* Bug fixes require making security patches and then applying them
+* Implement updates and regular maintenance of the application.
+
 
 #### Documentation:
-Created documentation of the updates to provide a clear overview of the changes made and to enable other team members to understand and continue the work.
+
+* Documenting is one of the most important things in projects because you can always check what the errors were and how the errors came about.
+* Documenting also helps avoid the same mistakes by documenting the solution of the error.
 
 
 
